@@ -14,8 +14,8 @@ AI 엔지니어 부트캠프에서 머신러닝과 딥러닝을 공부하고 있
 
 | 프로젝트 | 한 줄 요약 |
 | --- | --- |
-| [🚢 타이타닉 생존자 예측](https://github.com/kimdonghyeon18/ai-portfolio/tree/main/projects/titanic-survival) | 교차검증 1위 모델이 리더보드에서 기준선보다 낮았던 원인을 오답 분석으로 찾아, 0.761 → **0.787**로 개선 |
 | [🏨 호텔 예약 취소 분석](https://github.com/kimdonghyeon18/ai-portfolio/tree/main/projects/hotel-cancellation) | 예약 11만 건에서 다른 요인으로 나눠 봐도 유지되는 취소 요인 5개를 찾아, 호텔별 대응 우선순위 제안 |
+| [🚢 타이타닉 생존자 예측](https://github.com/kimdonghyeon18/ai-portfolio/tree/main/projects/titanic-survival) | 교차검증 1위 모델이 리더보드에서 기준선보다 낮았던 원인을 오답 분석으로 찾아, 0.761 → **0.787**로 개선 |
 
 ### 기술
 
